@@ -5,7 +5,7 @@ OBJECTIVE:
 Use Pandas to retrieve data from https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh. 
 
 REQUIREMENTS:
-books.py was written using Python version 3.9.7.
+Meteorites.py was written using Python version 3.9.7.
 
 MAINTENANCE:
 This repository will likely not be updated after 1/11/2022.
